@@ -8,4 +8,4 @@ This repository hosts the signed, notarized downloads and the Sparkle update fee
 - **Requires:** macOS 14 or later, Apple silicon or Intel.
 - **Updates:** Geeklet checks for updates automatically; choose **Check for Updates…** to check now. Updates are signed with Sparkle.
 
-The first public release has not been published yet.
+**Latest:** [Geeklet 1.0.0](https://github.com/markdelfs/geeklet-releases/releases/tag/v1.0.0). Download `Geeklet-1.0.0.dmg`, open it, and drag Geeklet to Applications.
